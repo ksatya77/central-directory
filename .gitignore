@@ -49,3 +49,6 @@ Dockerfile.old
 # npm
 package-lock.json
 .history
+
+#idea
+.idea
